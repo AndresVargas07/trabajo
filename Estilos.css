@@ -83,7 +83,7 @@ background: url("imagenes/code4.jpg") no-repeat center center fixed;
 .card{
     position: relative;
     width: 36vh;
-    margin: 0.50vh;
+    margin:3vh;
     cursor: pointer;  
     transform: scale(0.95);
    -webkit-box-shadow: 1px 1px 23px 1px #FFFFFF;
